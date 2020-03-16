@@ -1,0 +1,48 @@
+_repo: L-Oeuvre-Poetique-de-Charles-Baudelaire-Les-Fleurs-du-Mal_61565
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Apollinaire, Guillaume
+    aliases:
+    - De Kostrowisky, Guillaume
+    - Kostrowitzky, Wilhelm Apollinaris de
+    - Apollinaris de Kostrowitzky, Wilhelm
+    - Kostrowisky, Guillaume de
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '6075'
+    url: http://www.gutenberg.org/2009/agents/6075
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Guillaume_Apollinaire
+    - https://fr.wikipedia.org/wiki/Guillaume_Apollinaire
+creator:
+  author:
+    agent_name: Baudelaire, Charles
+    aliases:
+    - Baudelaire-Dufays, Charles Pierre
+    - Baudelaire-Dufaÿs, Charles Pierre
+    birthdate: 1821
+    deathdate: 1867
+    gutenberg_agent_id: '1947'
+    url: http://www.gutenberg.org/2009/agents/1947
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Baudelaire
+    - http://en.wikipedia.org/wiki/Charles_Baudelaire
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Poésie
+gutenberg_issued: '2020-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61565'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French poetry -- 19th century'
+- GITenberg
+title: 'L''Oeuvre Poètique de Charles Baudelaire: Les Fleurs du Mal'
+url: http://www.gutenberg.org/ebooks/61565
